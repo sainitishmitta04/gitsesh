@@ -1,2 +1,0 @@
-# gitsesh
-Demo on Git
